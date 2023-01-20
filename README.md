@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Transitioning into the world of web development!
+
 ## :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -16,6 +18,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" width="40" height="40"/>
 </div>
+
+## 🔭 I’m currently working on ...
+<a href="https://tom2612.github.io/shopping-cart/">Shopping Cart</a>
 
 <!--
 **Tom2612/Tom2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
