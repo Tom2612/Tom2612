@@ -22,6 +22,8 @@ Transitioning into the world of web development!
 ## 🔭 I’m currently working on ...
 <a href="https://tom2612.github.io/shopping-cart/">Shopping Cart</a>
 
+## 📫 How to reach me: ...
+<a href="https://www.linkedin.com/in/tom-powell-575864225/">LinkedIn</a>
 <!--
 **Tom2612/Tom2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
