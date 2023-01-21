@@ -20,7 +20,7 @@ Transitioning into the world of web development!
 </div>
 
 ## 🔭 I’m currently working on ...
-Live demo: <a href="https://tom2612.github.io/shopping-cart/#/home">Shopping Cart</a>
+Live demo: <a href="https://tom2612.github.io/shopping-cart/">Shopping Cart</a>
 
 <a href="https://github.com/Tom2612/shopping-cart">Repo</a>
 
