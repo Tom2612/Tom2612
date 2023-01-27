@@ -22,7 +22,9 @@ Transitioning into the world of web development!
 ## 🔭 I’m currently working on ...
 Live demo: <a href="https://tom2612.github.io/shopping-cart/#/home">Shopping Cart</a>
 
-<a href="https://github.com/Tom2612/shopping-cart">Repo</a>
+Here's the <a href="https://github.com/Tom2612/shopping-cart">Repo</a>
+
+Adding authentication to a full MERN-stack book-logging app: <a href="https://github.com/Tom2612/BookReadingMERN/tree/auth">Repo</a>
 
 ## 📫 How to reach me: ...
 <a href="https://www.linkedin.com/in/tom-powell-575864225/">LinkedIn</a>
