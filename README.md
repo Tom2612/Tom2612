@@ -24,7 +24,8 @@ Live demo: <a href="https://tom2612.github.io/shopping-cart/#/home">Shopping Car
 
 Here's the <a href="https://github.com/Tom2612/shopping-cart">Repo</a>
 
-Adding authentication to a full MERN-stack book-logging app: <a href="https://github.com/Tom2612/BookReadingMERN">Repo</a>
+Full-stack MERN book-logging app with db storage and user authentication, validation and error handling: <a href="https://github.com/Tom2612/BookReadingMERN">Repo</a>
+Plus another version that uses Firebase authentication and Firestore DB: <a href='https://github.com/Tom2612/BookReadingFirebase'>Repo</a>
 
 ## 📫 How to reach me: ...
 <a href="https://www.linkedin.com/in/tom-powell-575864225/">LinkedIn</a>
