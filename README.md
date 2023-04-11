@@ -17,6 +17,7 @@ Transitioning into the world of web development!
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" title="cypress" alt="cypress" width="40" height="40"/>
 </div>
 
 ## 🔭 My recent projects ...
