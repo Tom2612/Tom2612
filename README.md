@@ -30,6 +30,9 @@ Plus another version that uses Firebase authentication and Firestore DB: <a href
 
 Full-Stack MERN site connecting musicians to groups (Not yet deployed): <a href='https://github.com/Tom2612/orch-site'>Repo</a>
 
+Weather app deployed on render with light/dark mode: 
+<a href='https://github.com/Tom2612/weather_app'>Repo</a> | <a href='https://weathery-ox9z.onrender.com/'>Live</a>
+
 ## 📫 How to reach me: ...
 I am open to work!
 <a href="https://www.linkedin.com/in/tom-powell-575864225/">LinkedIn</a>
