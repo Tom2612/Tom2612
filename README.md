@@ -4,6 +4,7 @@ Transitioning into the world of web development!
 
 ## :hammer_and_wrench: Languages and Tools:
 <div>
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -24,14 +25,12 @@ Transitioning into the world of web development!
 E-commerce shopping cart store for top Sci-fi books (Using Firebase): 
 <a href="https://tom2612.github.io/shopping-cart/#/home">Live</a> | <a href="https://github.com/Tom2612/shopping-cart">Repo</a>
 
-Full-stack MERN book-logging app with db storage and user authentication, validation and error handling: <a href="https://github.com/Tom2612/BookReadingMERN">Repo</a>
+Full-stackbook-logging app using MongoDB storage and built with NodeJS/Express. Features full user authentication, backend validation checks for form handling and error reporting. Fully deployed with users and a test version: <a href="https://github.com/Tom2612/BookReadingMERN">Repo</a> | <a href="https://bookreadingtracker.onrender.com/login">Live Site</a>
 
-Plus another version that uses Firebase authentication and Firestore DB: <a href='https://github.com/Tom2612/BookReadingFirebase'>Repo</a> | <a href='https://tom2612.github.io/BookReadingFirebase'>Live</a>
-
-Full-Stack MERN site connecting musicians to groups (Not yet deployed): <a href='https://github.com/Tom2612/orch-site'>Repo</a>
-
-Weather app deployed on render with light/dark mode: 
+Stateful weather app deployed on render with light/dark mode utilising a search feature and OpenWeatherMap API web service: 
 <a href='https://github.com/Tom2612/weather_app'>Repo</a> | <a href='https://weathery-ox9z.onrender.com/'>Live</a>
+
+Currently building: A Ffull-stack advertising site aiming to connect musicians to groups (Not yet deployed): <a href='https://github.com/Tom2612/orch-site'>Repo</a>
 
 ## 📫 How to reach me: ...
 I am open to work!
