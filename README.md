@@ -40,8 +40,9 @@ Transitioning into the world of web development!
 </div>
 
 ## 🔭 My recent projects ...
-E-commerce shopping cart store for top Sci-fi books (Using Firebase): 
+<!-- E-commerce shopping cart store for top Sci-fi books (Using Firebase): 
 <a href="https://tom2612.github.io/shopping-cart/#/home">Live</a> | <a href="https://github.com/Tom2612/shopping-cart">Repo</a>
+-->
 
 Full-stackbook-logging app using MongoDB storage and built with NodeJS/Express. Features full user authentication, backend validation checks for form handling and error reporting. Fully deployed with users and a test version: <a href="https://github.com/Tom2612/BookReadingMERN">Repo</a> | <a href="https://bookreadingtracker.onrender.com/login">Live Site</a>
 
