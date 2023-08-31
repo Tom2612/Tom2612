@@ -44,12 +44,12 @@ Transitioning into the world of web development!
 <a href="https://tom2612.github.io/shopping-cart/#/home">Live</a> | <a href="https://github.com/Tom2612/shopping-cart">Repo</a>
 -->
 
-Full-stackbook-logging app using MongoDB storage and built with NodeJS/Express. Features full user authentication, backend validation checks for form handling and error reporting. Fully deployed with users and a test version: <a href="https://github.com/Tom2612/BookReadingMERN">Repo</a> | <a href="https://bookreadingtracker.onrender.com/login">Live Site</a>
+Full-stack book-logging app using MongoDB storage and built with NodeJS/Express backend with a React frontend. Features full user authentication, backend validation checks for form handling and error reporting. Fully deployed with users and a test version: <a href="https://github.com/Tom2612/BookReadingMERN">Repo</a> | <a href="https://bookreadingtracker.onrender.com/login">Live Site</a>
 
 Stateful weather app deployed on render with light/dark mode utilising a search feature and OpenWeatherMap API web service: 
 <a href='https://github.com/Tom2612/weather_app'>Repo</a> | <a href='https://weathery-ox9z.onrender.com/'>Live</a>
 
-Currently building: A Ffull-stack advertising site aiming to connect musicians to groups (Not yet deployed): <a href='https://github.com/Tom2612/orch-site'>Repo</a>
+Currently building: A full-stack advertising site aiming to connect musicians to groups (Not yet deployed): <a href='https://github.com/Tom2612/orch-site'>Repo</a>
 
 ## 📫 How to reach me: ...
 I am open to work!
