@@ -52,11 +52,11 @@ Stateful weather app deployed on render with light/dark mode utilising a search 
 Currently building: A full-stack advertising site aiming to connect musicians to groups (Not yet deployed): <a href='https://github.com/Tom2612/orch-site'>Repo</a>
 
 ## 📫 How to reach me: ...
-I am open to work!
+I am open to work and being contacted!
 <a href="https://www.linkedin.com/in/tom-powell-575864225/">LinkedIn</a>
 
 ## ⚡ Fun fact: ...
-I have spent the last 7 years teaching Chemistry and am looking to change career!
+Prior to working as a full-stack developer I worked in education for 7 years, teaching all manner of subjects but my specialism is Chemistry.
 
 <!--
 **Tom2612/Tom2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
