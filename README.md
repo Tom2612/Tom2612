@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Transitioning into the world of web development!
+After successfully transitioning into the tech industry as a full stack developer, I am keen to bring my leadership and education experiences into the sector to work on innovative and far-reaching projects that aim to bring education to all. Reach out if you are seeking an expert communicator with a passion for education and tech, the connections between them, and someone who is constantly looking to develop and learn more!
 
 ## :hammer_and_wrench: Languages and Tools:
 <div>
